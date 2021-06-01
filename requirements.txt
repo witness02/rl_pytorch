@@ -68,7 +68,7 @@ torchfile==0.1.0
 tornado==4.5.2
 tqdm==4.28.1
 traitlets==4.3.2
-urllib3==1.24.1
+urllib3==1.26.5
 -e git+git@github.com:facebookresearch/visdom.git@9caf4dc63afb78a8540ae7bce035a9210a46b689#egg=visdom
 wcwidth==0.1.7
 websocket-client==0.54.0
